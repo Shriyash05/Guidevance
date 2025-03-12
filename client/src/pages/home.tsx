@@ -143,7 +143,7 @@ export default function Home() {
                           <FormControl>
                             <div className="relative group">
                               <Input
-                                placeholder="e.g. Machine Learning, Web Development, Data Science"
+                                placeholder="e.g. Machine learning, web developer, lawyer"
                                 className="w-full px-4 py-6 rounded-xl border-2 border-slate-200 dark:border-slate-700 focus:outline-none focus:border-purple-500/50 focus:ring-2 focus:ring-purple-500/30 shadow-sm dark:bg-slate-800 dark:text-slate-100 transition-all duration-200 text-base placeholder:text-slate-400 dark:placeholder:text-slate-500"
                                 {...field}
                               />
